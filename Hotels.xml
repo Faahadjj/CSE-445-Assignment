@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  
+  <Hotel Rating="4.8">
+    <Name>Grand Phoenix Resort</Name>
+    <Phone>602-555-1234</Phone>
+    <Phone>800-555-1234</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>500</Number>
+      <Street>N Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.5">
+    <Name>Desert Oasis Inn</Name>
+    <Phone>480-555-2345</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>200</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85016</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.9">
+    <Name>Scottsdale Luxury Suites</Name>
+    <Phone>480-555-3456</Phone>
+    <Phone>888-555-3456</Phone>
+    <Address>
+      <Number>7000</Number>
+      <Street>E Shea Blvd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85254</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.3">
+    <Name>Mesa Valley Hotel</Name>
+    <Phone>480-555-4567</Phone>
+    <Address NearestAirport="Phoenix Mesa Gateway">
+      <Number>1500</Number>
+      <Street>S Dobson Rd</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85202</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.6">
+    <Name>Tempe University Inn</Name>
+    <Phone>480-555-5678</Phone>
+    <Phone>877-555-5678</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>1025</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.4">
+    <Name>Chandler Business Hotel</Name>
+    <Phone>480-555-6789</Phone>
+    <Address>
+      <Number>3000</Number>
+      <Street>W Frye Rd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85224</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.7">
+    <Name>Glendale Plaza Inn</Name>
+    <Phone>623-555-7890</Phone>
+    <Phone>800-555-7890</Phone>
+    <Address NearestAirport="Phoenix Deer Valley">
+      <Number>6350</Number>
+      <Street>W Bell Rd</Street>
+      <City>Glendale</City>
+      <State>AZ</State>
+      <Zip>85308</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.2">
+    <Name>Gilbert Garden Hotel</Name>
+    <Phone>480-555-8901</Phone>
+    <Address>
+      <Number>2500</Number>
+      <Street>S Val Vista Dr</Street>
+      <City>Gilbert</City>
+      <State>AZ</State>
+      <Zip>85296</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.5">
+    <Name>Peoria Sunset Lodge</Name>
+    <Phone>623-555-9012</Phone>
+    <Phone>888-555-9012</Phone>
+    <Address NearestAirport="Phoenix Deer Valley">
+      <Number>8500</Number>
+      <Street>W Happy Valley Rd</Street>
+      <City>Peoria</City>
+      <State>AZ</State>
+      <Zip>85383</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.1">
+    <Name>Surprise Springs Hotel</Name>
+    <Phone>623-555-0123</Phone>
+    <Address>
+      <Number>14000</Number>
+      <Street>W Grand Ave</Street>
+      <City>Surprise</City>
+      <State>AZ</State>
+      <Zip>85374</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.8">
+    <Name>Paradise Valley Resort</Name>
+    <Phone>480-555-1357</Phone>
+    <Phone>800-555-1357</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>5700</Number>
+      <Street>E McDonald Dr</Street>
+      <City>Paradise Valley</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+  
+</Hotels>
