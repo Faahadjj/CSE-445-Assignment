@@ -1,142 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-  
-  <Hotel Rating="4.8">
-    <Name>Grand Phoenix Resort</Name>
-    <Phone>602-555-1234</Phone>
-    <Phone>800-555-1234</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
-      <Number>500</Number>
-      <Street>N Central Ave</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85004</Zip>
-    </Address>
-  </Hotel>
-  
-  <Hotel Rating="4.5">
-    <Name>Desert Oasis Inn</Name>
-    <Phone>480-555-2345</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
-      <Number>200</Number>
-      <Street>E Camelback Rd</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85016</Zip>
-    </Address>
-  </Hotel>
-  
-  <Hotel Rating="4.9">
-    <Name>Scottsdale Luxury Suites</Name>
-    <Phone>480-555-3456</Phone>
-    <Phone>888-555-3456</Phone>
+  <Hotel Rating="4.2" NearestAirport="Phoenix Sky Harbor">
+    <Name>The Westin Tempe</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
     <Address>
-      <Number>7000</Number>
-      <Street>E Shea Blvd</Street>
-      <City>Scottsdale</City>
-      <State>AZ</State>
-      <Zip>85254</Zip>
-    </Address>
-  </Hotel>
-  
-  <Hotel Rating="4.3">
-    <Name>Mesa Valley Hotel</Name>
-    <Phone>480-555-4567</Phone>
-    <Address NearestAirport="Phoenix Mesa Gateway">
-      <Number>1500</Number>
-      <Street>S Dobson Rd</Street>
-      <City>Mesa</City>
-      <State>AZ</State>
-      <Zip>85202</Zip>
-    </Address>
-  </Hotel>
-  
-  <Hotel Rating="4.6">
-    <Name>Tempe University Inn</Name>
-    <Phone>480-555-5678</Phone>
-    <Phone>877-555-5678</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
-      <Number>1025</Number>
-      <Street>E Apache Blvd</Street>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  
-  <Hotel Rating="4.4">
-    <Name>Chandler Business Hotel</Name>
-    <Phone>480-555-6789</Phone>
+  <Hotel Rating="4.6" NearestAirport="John F. Kennedy International Airport">
+    <Name>The Plaza Hotel</Name>
+    <Phone>212-759-3000</Phone>
     <Address>
-      <Number>3000</Number>
-      <Street>W Frye Rd</Street>
-      <City>Chandler</City>
-      <State>AZ</State>
-      <Zip>85224</Zip>
+      <Number>768</Number>
+      <Street>5th Ave</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
     </Address>
   </Hotel>
-  
-  <Hotel Rating="4.7">
-    <Name>Glendale Plaza Inn</Name>
-    <Phone>623-555-7890</Phone>
-    <Phone>800-555-7890</Phone>
-    <Address NearestAirport="Phoenix Deer Valley">
-      <Number>6350</Number>
-      <Street>W Bell Rd</Street>
-      <City>Glendale</City>
-      <State>AZ</State>
-      <Zip>85308</Zip>
-    </Address>
-  </Hotel>
-  
-  <Hotel Rating="4.2">
-    <Name>Gilbert Garden Hotel</Name>
-    <Phone>480-555-8901</Phone>
+  <Hotel Rating="4.7" NearestAirport="Los Angeles International Airport">
+    <Name>The Beverly Hills Hotel</Name>
+    <Phone>310-276-2251</Phone>
     <Address>
-      <Number>2500</Number>
-      <Street>S Val Vista Dr</Street>
-      <City>Gilbert</City>
-      <State>AZ</State>
-      <Zip>85296</Zip>
+      <Number>9641</Number>
+      <Street>Sunset Blvd</Street>
+      <City>Beverly Hills</City>
+      <State>CA</State>
+      <Zip>90210</Zip>
     </Address>
   </Hotel>
-  
-  <Hotel Rating="4.5">
-    <Name>Peoria Sunset Lodge</Name>
-    <Phone>623-555-9012</Phone>
-    <Phone>888-555-9012</Phone>
-    <Address NearestAirport="Phoenix Deer Valley">
-      <Number>8500</Number>
-      <Street>W Happy Valley Rd</Street>
-      <City>Peoria</City>
-      <State>AZ</State>
-      <Zip>85383</Zip>
-    </Address>
-  </Hotel>
-  
-  <Hotel Rating="4.1">
-    <Name>Surprise Springs Hotel</Name>
-    <Phone>623-555-0123</Phone>
+  <Hotel NearestAirport="Harry Reid International Airport">
+    <Name>Bellagio Hotel and Casino</Name>
+    <Phone>888-987-6667</Phone>
+    <Phone>702-693-7111</Phone>
     <Address>
-      <Number>14000</Number>
-      <Street>W Grand Ave</Street>
-      <City>Surprise</City>
-      <State>AZ</State>
-      <Zip>85374</Zip>
+      <Number>3600</Number>
+      <Street>S Las Vegas Blvd</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
     </Address>
   </Hotel>
-  
-  <Hotel Rating="4.8">
-    <Name>Paradise Valley Resort</Name>
-    <Phone>480-555-1357</Phone>
-    <Phone>800-555-1357</Phone>
-    <Address NearestAirport="Scottsdale Airport">
-      <Number>5700</Number>
-      <Street>E McDonald Dr</Street>
-      <City>Paradise Valley</City>
-      <State>AZ</State>
-      <Zip>85253</Zip>
+  <Hotel Rating="4.6" NearestAirport="O'Hare International Airport">
+    <Name>The Ritz-Carlton, Chicago</Name>
+    <Phone>312-266-1000</Phone>
+    <Address>
+      <Number>160</Number>
+      <Street>E Pearson St</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60611</Zip>
     </Address>
   </Hotel>
-  
+  <Hotel Rating="4.8" NearestAirport="Orlando International Airport">
+    <Name>Four Seasons Resort Orlando at Walt Disney World</Name>
+    <Phone>407-313-7777</Phone>
+    <Address>
+      <Number>10100</Number>
+      <Street>Dream Tree Blvd</Street>
+      <City>Golden Oak</City>
+      <State>FL</State>
+      <Zip>32836</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.5" NearestAirport="San Francisco International Airport">
+    <Name>The Fairmont San Francisco</Name>
+    <Phone>415-772-5000</Phone>
+    <Address>
+      <Number>950</Number>
+      <Street>Mason St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94108</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.6" NearestAirport="Austin-Bergstrom International Airport">
+    <Name>JW Marriott Austin</Name>
+    <Phone>512-474-4777</Phone>
+    <Address>
+      <Number>110</Number>
+      <Street>E 2nd St</Street>
+      <City>Austin</City>
+      <State>TX</State>
+      <Zip>78701</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.6" NearestAirport="Seattle-Tacoma International Airport">
+    <Name>Hyatt Regency Seattle</Name>
+    <Phone>206-973-1234</Phone>
+    <Address>
+      <Number>808</Number>
+      <Street>Howell St</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.8" NearestAirport="City of Colorado Springs Municipal Airport">
+    <Name>The Broadmoor</Name>
+    <Phone>800-634-7711</Phone>
+    <Phone>719-634-7711</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Lake Ave</Street>
+      <City>Colorado Springs</City>
+      <State>CO</State>
+      <Zip>80906</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.4" NearestAirport="Miami International Airport">
+    <Name>W Miami</Name>
+    <Phone>305-503-4400</Phone>
+    <Address>
+      <Number>485</Number>
+      <Street>Brickell Ave</Street>
+      <City>Miami</City>
+      <State>FL</State>
+      <Zip>33131</Zip>
+    </Address>
+  </Hotel>
 </Hotels>
