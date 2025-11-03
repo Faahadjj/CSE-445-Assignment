@@ -1,65 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotel>
-  
-  <Hotel Rating="4.8">
-    <Name>Grand Phoenix Resort</Name>
-    <Phone>602-555-1234</Phone>
-    <Phone>800-555-1234</Phone>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Desert Oasis Inn</Name>
+    <Phone>602-555-1001</Phone>
     <Address NearestAirport="Phoenix Sky Harbor">
-      <Number>500</Number>
+      <Number>210</Number>
       <Street>N Central Ave</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  
-  <Hotel>
-    <Name>Desert Oasis Inn</Name>
-    <Phone>480-555-2345</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
-      <Number>200</Number>
+
+  <Hotel Rating="4.5">
+    <Name>Cactus Bloom Hotel</Name>
+    <Address>
+      <Number>3000</Number>
       <Street>E Camelback Rd</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85016</Zip>
     </Address>
   </Hotel>
-  
-  <Hotel Rating="4.9">
-    <Name>Scottsdale Luxury Suites</Name>
-    <Address>
-      <Number>7000</Number>
-      <Street>E Shea Blvd</Street>
+
+  <Hotel Rating="4.3">
+    <Name>Sonoran Suites</Name>
+    <Phone>480-555-2323</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>400</Number>
+      <Street>E McDowell Rd</Street>
       <City>Scottsdale</City>
       <State>AZ</State>
-      <Zip>85254</Zip>
-    </Address>
+      <Zip>85251
   </Hotel>
-  
-  <Hotel Rating="4.3">
-    <Name>Mesa Valley Hotel</Name>
-    <Phone>480-555-4567</Phone>
-    <Address NearestAirport="Phoenix Mesa Gateway">
-      <Number>1500</Number>
-      <Street>S Dobson Rd</Street>
-      <City>Mesa</City>
-      <State>AZ</State>
-      <Zip>85202
-  </Hotel>
-  
+
   <Hotel Rating="4.6">
-    <Name>Tempe University Inn</Name>
-    <Name>Tempe Downtown Hotel</Name>
-    <Phone>480-555-5678</Phone>
-    <Phone>877-555-5678</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
-      <Number>1025</Number>
-      <Street>E Apache Blvd</Street>
+    <Name>Valley View Resort</Name>
+    <Name>Valley Inn</Name>
+    <Phone>480-555-3434</Phone>
+    <Phone>800-555-3434</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>500</Number>
+      <Street>S Mill Ave</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  
+
 </Hotel>
+
